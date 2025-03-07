@@ -1,14 +1,14 @@
 # Introduction
 
 ## Projects
-### Project 1
+### Project One
 - Description
 - Links
 
-### Project 2
+### Project Two
 - Description
 - Links
 
-### Project 3
+### Project Three
 - Description
 - Links
