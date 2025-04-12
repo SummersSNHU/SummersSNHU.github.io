@@ -5,7 +5,8 @@
 ## Projects
 ### Project One
 - Description
-- [Please click here to review the original and enchnaced code described above.](https://github.com/SummersSNHU/SummersSNHU.github.io/tree/main/CS-499%20Software%20Engineering%20and%20Design)
+- [Original Code](https://github.com/SummersSNHU/SummersSNHU.github.io/tree/main/CS-499%20Software%20Engineering%20and%20Design/Original)
+- [Enhanced Code](https://github.com/SummersSNHU/SummersSNHU.github.io/tree/main/CS-499%20Software%20Engineering%20and%20Design/Enhancement)
 
 ### Project Two
 - Description
