@@ -2,7 +2,7 @@
 
 ## Code Review
 - Description
-- YouTube link
+- [Code review video](https://youtu.be/k8gAWyZzXic)
 
 ## Projects
 ### Project One
