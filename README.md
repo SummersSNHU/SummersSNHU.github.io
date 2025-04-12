@@ -1,6 +1,8 @@
 # Introduction
 
 ## Code Review
+- Description
+- YouTube link
 
 ## Projects
 ### Project One
