@@ -8,7 +8,8 @@
 
   Accompanying each of the three projects are brief descriptions of the project, original code I developed in courses, enhanced code I wrote in CS-499, and a narrative explaining how I met the course outcomes.
 
-
+## Professional self-assessment
+- Description
      
 ## Code Review
   Code reviews are an important part of software development. Often code is written hastily. It can function but may not be up to industry standards. They allow developers time to scrutinize all aspects of the code base. Code reviews help ensure quality products are produced. Linked below is my code review of the three projects I have listed on this site. 
