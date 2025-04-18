@@ -9,7 +9,7 @@
 
   Accompanying each of the three projects are brief descriptions of the project, original code I developed in courses, enhanced code I wrote in CS-499, and a narrative explaining how I met the course outcomes.
 
-## Professional self-assessment
+## Professional Self-Assessment
 Going through the program has not only helped me build a solid technical skill set, but I've also picked up some great communication skills. For instance, in my CS-319 UI/UX Design and Development class, I designed an app that scanned barcodes on grocery items and informed users about the healthiness of the ingredients. I collaborated with several people to understand their expectations for the app. I sketched out the app and a few pages, then re-interviewed everyone for their feedback. Using that input, I created a digital version of the screens and met with everyone again before finalizing the design. This course taught me how to communicate effectively to gather the information needed for a quality design.
 
 In multiple courses at SNHU, I was provided with real world scenarios. These scenarios involved communicating with stakeholders. I learned quickly that communication with stakeholders is a key component in software design. I had to be able to understand what they wanted me to produce. Working with these scenarios allowed me to learn how the software development life cycle works. It also taught me to look at things from different perspectives. 
