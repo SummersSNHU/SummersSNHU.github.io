@@ -1,5 +1,6 @@
 # Introduction
-  My name is Ryan Summers. This is an eProtfolio that was developed as a final project for my bachelor’s degree at Southern New Hampshire University. It contains three separate projects I worked on throughout my course work. All three projects have been enhanced to meet the five specific course outcomes. These outcomes are: 
+  My name is Ryan Summers. In May 2022 I started working towards a Bachelor of Science in Computer Science at Southern New Hampshire University. It is now April 2025, and I have created this ePortfolio as a final project for my Computer Science Capstone course. It is a collection of some of the different projects I worked on while in school. These projects have been enhanced since I innitially created them. The enchancements where made to meet five specific course outcomes. These outcomes are: 
+  
   1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
   2. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
   3. Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
@@ -9,7 +10,16 @@
   Accompanying each of the three projects are brief descriptions of the project, original code I developed in courses, enhanced code I wrote in CS-499, and a narrative explaining how I met the course outcomes.
 
 ## Professional self-assessment
-- Description
+Going through the program has not only helped me build a solid technical skill set, but I've also picked up some great communication skills. For instance, in my CS-319 UI/UX Design and Development class, I designed an app that scanned barcodes on grocery items and informed users about the healthiness of the ingredients. I collaborated with several people to understand their expectations for the app. I sketched out the app and a few pages, then re-interviewed everyone for their feedback. Using that input, I created a digital version of the screens and met with everyone again before finalizing the design. This course taught me how to communicate effectively to gather the information needed for a quality design.
+
+In multiple courses at SNHU, I was provided with real world scenarios. These scenarios involved communicating with stakeholders. I learned quickly that communication with stakeholders is a key component in software design. I had to be able to understand what they wanted me to produce. Working with these scenarios allowed me to learn how the software development life cycle works. It also taught me to look at things from different perspectives. 
+
+Understanding data structures and algorithms is essential in programming. I have been able to use and create multiple solutions to problems with algorithms and sort methods. Knowing what sort method to use to solve a problem as efficiently as possible is important. If the wrong one is used, you could make something that should run relatively quickly, take a long time. 
+
+I've also spent a lot of time working with databases. Creating a structured database and being able to properly maintain it are important skills to have. Just about everything online needs a database. Think about online shopping. A database is used to store inventory. Having the knowledge to interact with different databases is a skill I can leverage in a ton of different senarios. 
+
+Security is one of the most important things to consider while working on any project. I do not want to code something that just works. I will provide a technically sound piece of software that will be up to date with the latest security patches. No company wants to have software that leaves them vulnerable due to something small being overlooked. 
+
      
 ## Code Review
   Code reviews are an important part of software development. Often code is written hastily. It can function but may not be up to industry standards. They allow developers time to scrutinize all aspects of the code base. Code reviews help ensure quality products are produced. Linked below is my code review of the three projects I have listed on this site. 
