@@ -1,0 +1,7 @@
+This is the enhanced file. 
+Added new functions 
+  - creating multiple entries at once 
+  - updating multiple entries at once 
+  - deleting multiple entries at once
+  - count the total entries in the database. 
+Added in-line comments per industry standards.  
