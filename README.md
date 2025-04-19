@@ -16,7 +16,7 @@ In multiple courses at SNHU, I was provided with real world scenarios. These sce
 
 Understanding data structures and algorithms is essential in programming. I have been able to use and create multiple solutions to problems with algorithms and sort methods. Knowing what sort method to use to solve a problem as efficiently as possible is important. If the wrong one is used, you could make something that should run relatively quickly, take a long time. 
 
-I've also spent a lot of time working with databases. Creating a structured database and being able to properly maintain it are important skills to have. Just about everything online needs a database. Think about online shopping. A database is used to store inventory. Having the knowledge to interact with different databases is a skill I can leverage in a ton of different senarios. 
+I've also spent a lot of time working with databases. Creating a structured database and being able to properly maintain it are important skills to have. Just about everything online needs a database. Think about online shopping. A database is used to store inventory. Having the knowledge to interact with different databases is a skill I can leverage in a ton of different scenarios. 
 
 Security is one of the most important things to consider while working on any project. I do not want to code something that just works. I will provide a technically sound piece of software that will be up to date with the latest security patches. No company wants to have software that leaves them vulnerable due to something small being overlooked. 
 
