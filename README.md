@@ -1,4 +1,4 @@
-# Introduction
+# <ins>Introduction</ins>
   My name is Ryan Summers. In May 2022 I started working towards a Bachelor of Science in Computer Science at Southern New Hampshire University. It is now April 2025, and I have created this ePortfolio as a final project for my Computer Science Capstone course. It is a collection of some of the different projects I worked on while in school. These projects have been enhanced since I innitially created them. The enchancements where made to meet five specific course outcomes. These outcomes are: 
   
   1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
@@ -9,7 +9,7 @@
 
   Accompanying each of the three projects are brief descriptions of the project, original code I developed in courses, enhanced code I wrote in CS-499, and a narrative explaining how I met the course outcomes.
 
-## Professional Self-Assessment
+## <ins>Professional Self-Assessment</ins>
 Going through the program has not only helped me build a solid technical skill set, but I've also picked up some great communication skills. For instance, in my CS-319 UI/UX Design and Development class, I designed an app that scanned barcodes on grocery items and informed users about the healthiness of the ingredients. I collaborated with several people to understand their expectations for the app. I sketched out the app and a few pages, then re-interviewed everyone for their feedback. Using that input, I created a digital version of the screens and met with everyone again before finalizing the design. This course taught me how to communicate effectively to gather the information needed for a quality design.
 
 In multiple courses at SNHU, I was provided with real world scenarios. These scenarios involved communicating with stakeholders. I learned quickly that communication with stakeholders is a key component in software design. I had to be able to understand what they wanted me to produce. Working with these scenarios allowed me to learn how the software development life cycle works. It also taught me to look at things from different perspectives. 
@@ -21,11 +21,11 @@ I've also spent a lot of time working with databases. Creating a structured data
 Security is one of the most important things to consider while working on any project. I do not want to code something that just works. I will provide a technically sound piece of software that will be up to date with the latest security patches. No company wants to have software that leaves them vulnerable due to something small being overlooked. 
 
      
-## Code Review
+## <ins>Code Review</ins>
   Code reviews are an important part of software development. Often code is written hastily. It can function but may not be up to industry standards. They allow developers time to scrutinize all aspects of the code base. Code reviews help ensure quality products are produced. Linked below is my code review of the three projects I have listed on this site. 
 - [Code review video](https://youtu.be/k8gAWyZzXic)
 
-## Projects
+## <ins>Enhanced Projects</ins>
 ### Project One
   For Enhancement One: Software Design and Engineering, I chose to enhance a program that calculates interest. It was originally written in C++ in June of 2023. It is from CS-210: Programing Languages. CS-210 teaches students how to write C++ code. To meet the software engineering and design enhancement requirements for this project, I converted the C++ code into Python and cleaned up the output format to look more visually appealing. 
 
